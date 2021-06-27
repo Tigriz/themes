@@ -1,0 +1,22 @@
+{
+      "name": "Arc Darkest",
+      "is_dark": true,
+      "colors": {
+        "accent-color": "#4b8cd8",
+        "primary-color": "#4b8cd8",
+        "warning-color": "#da4453",
+
+        "sidebar-color": "#1d2027",
+        "roomlist-background-color": "#242730",
+        "roomlist-text-color": "#d3dae3",
+        "roomlist-text-secondary-color": "#898f98",
+        "roomlist-highlights-color": "#4b8cd8",
+        "roomlist-separator-color": "#1d2027",
+
+        "timeline-background-color": "#2b2f38",
+        "timeline-text-color": "#d3dae3",
+        "timeline-text-secondary-color": "#898f98",
+        "timeline-highlights-color": "#3c414d",
+        "reaction-row-button-selected-bg-color": "#4b8cd8"
+      }
+}
