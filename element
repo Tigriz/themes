@@ -1,22 +1,44 @@
 {
-      "name": "Arc Darkest",
-      "is_dark": true,
-      "colors": {
-        "accent-color": "#4b8cd8",
-        "primary-color": "#4b8cd8",
-        "warning-color": "#da4453",
-
-        "sidebar-color": "#1d2027",
-        "roomlist-background-color": "#242730",
-        "roomlist-text-color": "#d3dae3",
-        "roomlist-text-secondary-color": "#898f98",
-        "roomlist-highlights-color": "#4b8cd8",
-        "roomlist-separator-color": "#1d2027",
-
-        "timeline-background-color": "#2b2f38",
-        "timeline-text-color": "#d3dae3",
-        "timeline-text-secondary-color": "#898f98",
-        "timeline-highlights-color": "#3c414d",
-        "reaction-row-button-selected-bg-color": "#4b8cd8"
-      }
+  "name": "Catppuccin Mocha",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#b4befe",
+    "accent": "#b4befe",
+    "primary-color": "#b4befe",
+    "warning-color": "#f38ba8",
+    "alert": "#e5c890",
+    "sidebar-color": "#11111b",
+    "roomlist-background-color": "#181825",
+    "roomlist-text-color": "#cdd6f4",
+    "roomlist-text-secondary-color": "#1e1e2e",
+    "roomlist-highlights-color": "#45475a",
+    "roomlist-separator-color": "#7f849c",
+    "timeline-background-color": "#1e1e2e",
+    "timeline-text-color": "#cdd6f4",
+    "secondary-content": "#cdd6f4",
+    "tertiary-content": "#cdd6f4",
+    "timeline-text-secondary-color": "#a6adc8",
+    "timeline-highlights-color": "#181825",
+    "reaction-row-button-selected-bg-color": "#585b70",
+    "menu-selected-color": "#45475a",
+    "focus-bg-color": "#585b70",
+    "room-highlight-color": "#89dceb",
+    "togglesw-off-color": "#9399b2",
+    "other-user-pill-bg-color": "#89dceb",
+    "username-colors": [
+      "#cba6f7",
+      "#eba0ac",
+      "#fab387",
+      "#a6e3a1",
+      "#94e2d5",
+      "#89dceb",
+      "#74c7ec",
+      "#b4befe"
+    ],
+    "avatar-background-colors": [
+      "#89b4fa",
+      "#cba6f7",
+      "#a6e3a1"
+    ]
+  }
 }
